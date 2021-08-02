@@ -2,7 +2,9 @@
   "name": "compressor",
   "version": "0.0.1",
   "description": "compress javascript resources",
-  "scripts": {},
+  "scripts": {
+    "build": "node build.js"
+  },
   "keywords": [],
   "author": "kakaru",
   "license": "ISC",
