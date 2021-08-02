@@ -1,0 +1,12 @@
+{
+  "name": "compressor",
+  "version": "0.0.1",
+  "description": "compress javascript resources",
+  "scripts": {},
+  "keywords": [],
+  "author": "kakaru",
+  "license": "ISC",
+  "dependencies": {
+    "terser": "^5.7.1"
+  }
+}
